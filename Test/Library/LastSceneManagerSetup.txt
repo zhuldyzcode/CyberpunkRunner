@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/K2Examples/K2Examples/KinectDemos/ColliderDemo/DepthColliderDemo2D.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
